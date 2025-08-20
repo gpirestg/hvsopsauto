@@ -4,5 +4,3 @@ openpyxl
 ezdxf
 shapely
 matplotlib
-os
-pathlib
