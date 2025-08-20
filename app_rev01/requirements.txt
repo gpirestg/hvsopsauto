@@ -3,3 +3,6 @@ streamlit
 openpyxl
 ezdxf
 shapely
+matplotlib
+os
+pathlib
